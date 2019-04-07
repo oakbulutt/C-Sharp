@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\bin\Debug\BP2Exercise4.exe.config
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\bin\Debug\BP2Exercise4.exe
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\bin\Debug\BP2Exercise4.pdb
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\obj\Debug\BP2Exercise4FactorialCalculationRecursion.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\obj\Debug\BP2Exercise4FactorialCalculationRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\obj\Debug\BP2Exercise4.exe
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP2Exercise4\BP2Exercise4\obj\Debug\BP2Exercise4.pdb
