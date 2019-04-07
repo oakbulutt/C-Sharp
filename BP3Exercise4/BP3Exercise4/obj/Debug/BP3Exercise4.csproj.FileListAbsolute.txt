@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\bin\Debug\BP3Exercise4.exe.config
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\bin\Debug\BP3Exercise4.exe
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\bin\Debug\BP3Exercise4.pdb
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\obj\Debug\BP3Exercise4.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\obj\Debug\BP3Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\obj\Debug\BP3Exercise4.exe
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP3Exercise4\BP3Exercise4\obj\Debug\BP3Exercise4.pdb
