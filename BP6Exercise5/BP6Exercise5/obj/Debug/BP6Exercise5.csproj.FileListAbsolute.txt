@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\bin\Debug\BP6Exercise5.exe.config
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\bin\Debug\BP6Exercise5.exe
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\bin\Debug\BP6Exercise5.pdb
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\obj\Debug\BP6Exercise5.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\obj\Debug\BP6Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\obj\Debug\BP6Exercise5.exe
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP6Exercise5\BP6Exercise5\obj\Debug\BP6Exercise5.pdb
