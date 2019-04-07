@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\bin\Debug\BP2Exercise5.exe.config
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\bin\Debug\BP2Exercise5.exe
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\bin\Debug\BP2Exercise5.pdb
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\obj\Debug\BP2Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\obj\Debug\BP2Exercise5.exe
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\obj\Debug\BP2Exercise5.pdb
+C:\Users\Oguzhan\source\repos\BP2Exercise5\BP2Exercise5\obj\Debug\BP2Exercise5.csprojAssemblyReference.cache
