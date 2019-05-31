@@ -1,0 +1,11 @@
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\obj\Debug\netcoreapp2.1\BP12Exercise1.csprojAssemblyReference.cache
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\obj\Debug\netcoreapp2.1\BP12Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\obj\Debug\netcoreapp2.1\BP12Exercise1.AssemblyInfoInputs.cache
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\obj\Debug\netcoreapp2.1\BP12Exercise1.AssemblyInfo.cs
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\bin\Debug\netcoreapp2.1\BP12Exercise1.deps.json
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\bin\Debug\netcoreapp2.1\BP12Exercise1.runtimeconfig.json
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\bin\Debug\netcoreapp2.1\BP12Exercise1.runtimeconfig.dev.json
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\bin\Debug\netcoreapp2.1\BP12Exercise1.dll
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\bin\Debug\netcoreapp2.1\BP12Exercise1.pdb
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\obj\Debug\netcoreapp2.1\BP12Exercise1.dll
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP12Exercise1\BP12Exercise1\obj\Debug\netcoreapp2.1\BP12Exercise1.pdb
