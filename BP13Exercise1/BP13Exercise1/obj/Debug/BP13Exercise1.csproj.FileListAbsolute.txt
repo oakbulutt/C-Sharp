@@ -1,0 +1,10 @@
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\bin\Debug\BP13Exercise1.exe.config
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\bin\Debug\BP13Exercise1.exe
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\bin\Debug\BP13Exercise1.pdb
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.Form1.resources
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.Properties.Resources.resources
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.csproj.GenerateResource.cache
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.exe
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.pdb
+C:\Users\oakbu\Desktop\Business Programming\Discussion\Exercises Programs\BP13Exercise1\BP13Exercise1\obj\Debug\BP13Exercise1.csprojAssemblyReference.cache
