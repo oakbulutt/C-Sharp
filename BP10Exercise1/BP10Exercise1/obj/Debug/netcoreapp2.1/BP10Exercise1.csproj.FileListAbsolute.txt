@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\bin\Debug\netcoreapp2.1\BP10Exercise1.deps.json
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\bin\Debug\netcoreapp2.1\BP10Exercise1.runtimeconfig.json
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\bin\Debug\netcoreapp2.1\BP10Exercise1.runtimeconfig.dev.json
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\bin\Debug\netcoreapp2.1\BP10Exercise1.dll
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\bin\Debug\netcoreapp2.1\BP10Exercise1.pdb
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\obj\Debug\netcoreapp2.1\BP10Exercise1.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\obj\Debug\netcoreapp2.1\BP10Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\obj\Debug\netcoreapp2.1\BP10Exercise1.AssemblyInfoInputs.cache
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\obj\Debug\netcoreapp2.1\BP10Exercise1.AssemblyInfo.cs
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\obj\Debug\netcoreapp2.1\BP10Exercise1.dll
+C:\Users\Oguzhan\Desktop\Business Programming\Discussion\Exercises Programs\BP10Exercise1\BP10Exercise1\obj\Debug\netcoreapp2.1\BP10Exercise1.pdb
